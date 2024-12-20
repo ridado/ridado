@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Karol, I'm new in IT business, at the beginning of programming adventure
-- 🌱 I’m currently learning both manual and automatic testing in Java and Python
+- 👋 Hi, my name is Karol.
+- 🌱 I’m currently learning both manual and automatic testing in Java
 - 📫 You can reachme by email k.smieszek85@gmail.com
 
 <!---
